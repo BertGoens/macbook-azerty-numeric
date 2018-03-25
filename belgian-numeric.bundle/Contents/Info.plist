@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.belgian-numeric</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>belgian-numeric</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>KLInfo_Belgian Numeric</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..belgiannumeric</string>
+		<string>org.sil.ukelele.keyboardlayout.belgian-numeric.belgiannumeric</string>
 		<key>TISIntendedLanguage</key>
 		<string>nl</string>
 	</dict>
