@@ -5,10 +5,11 @@ This layout is a change to type numbers without shift, and instead output symbol
 
 Screenshots
 ===========
+**Normal State**
+![Normal State](images/normal-state.png "Normal State")
 
-![Normal State](/normal-state.png)
-
-![Shift Pressed](/shift-pressed.png)
+**Shift Pressed**
+![Shift Pressed](images/shift-pressed.png "Shift Pressed")
 
 Installation
 ============
